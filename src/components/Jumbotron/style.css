@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya|Rye');
+.jumbotron{
+    width: 100%;
+    background-color: rgb(147, 149, 179);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 90px!important;
+}

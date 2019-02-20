@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya|Rye');
+nav.navbar{
+    justify-content: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+button[type=button]{
+    
+    background-color: darkkhaki;
+}
